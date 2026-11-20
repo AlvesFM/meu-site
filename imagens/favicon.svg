@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220">
+      <circle cx="110" cy="110" r="105" fill="none" stroke="#EE8434" stroke-width="3"/>
+      <circle cx="110" cy="110" r="95" fill="#0E4744"/>
+      <g transform="translate(15 11)">
+        <rect x="58" y="66" width="20" height="56" rx="2" fill="#F39A4F"/>
+        <rect x="82" y="46" width="24" height="76" rx="2" fill="#F39A4F"/>
+        <path d="M110 74 L120 62 L130 74 V122 H110 Z" fill="#F39A4F"/>
+        <g fill="#0E4744">
+          <rect x="62" y="74" width="4" height="6"/><rect x="70" y="74" width="4" height="6"/>
+          <rect x="62" y="84" width="4" height="6"/><rect x="70" y="84" width="4" height="6"/>
+          <rect x="62" y="94" width="4" height="6"/><rect x="70" y="94" width="4" height="6"/>
+          <rect x="62" y="104" width="4" height="6"/><rect x="70" y="104" width="4" height="6"/>
+          <rect x="87" y="54" width="5" height="6"/><rect x="96" y="54" width="5" height="6"/>
+          <rect x="87" y="64" width="5" height="6"/><rect x="96" y="64" width="5" height="6"/>
+          <rect x="87" y="74" width="5" height="6"/><rect x="96" y="74" width="5" height="6"/>
+          <rect x="87" y="84" width="5" height="6"/><rect x="96" y="84" width="5" height="6"/>
+          <rect x="87" y="94" width="5" height="6"/><rect x="96" y="94" width="5" height="6"/>
+          <rect x="87" y="104" width="5" height="6"/><rect x="96" y="104" width="5" height="6"/>
+          <rect x="114" y="80" width="4" height="6"/><rect x="122" y="80" width="4" height="6"/>
+          <rect x="114" y="90" width="4" height="6"/><rect x="122" y="90" width="4" height="6"/>
+          <rect x="114" y="100" width="4" height="6"/><rect x="122" y="100" width="4" height="6"/>
+          <rect x="114" y="110" width="4" height="6"/><rect x="122" y="110" width="4" height="6"/>
+        </g>
+        <rect x="30" y="122" width="12" height="30" rx="2" fill="#FBF3E8"/>
+        <path d="M46 124 H78 C86 124 90 130 86 134 H70 C66 134 66 138 70 138 H104 L150 116 C156 113 162 118 158 124 L124 148 C120 151 115 152 110 152 H46 Z" fill="#FBF3E8"/>
+      </g>
+    </svg>
